@@ -9,7 +9,7 @@
             "email":"xxxxxxxx@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "files": [
             "index.php"
